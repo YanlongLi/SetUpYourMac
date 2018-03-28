@@ -1,4 +1,6 @@
 
+
+## Basic System Setting
 ### install brew
 
 ### Install oh-my-zsh
@@ -31,3 +33,20 @@ add `Command+Down` shortcut for Zooom, How: follow [this article](http://osxdail
 ### Reverse the scroll direction if you are not used to it.
 
 Uncheck `System Preference -> TrackPad -> Scroll Direction: Natual`
+
+## Softwares
+
+### [VSCode](https://code.visualstudio.com/docs/setup/mac)
+
+### [karabiner](https://pqrs.org/osx/karabiner/index.html)
+
+switch Fn and Ctrl
+
+### [BetterTouchTool](https://www.boastr.net/)
+
+### Show Hidden Files in Finder
+
+Shortcut: `Cmd+Shift+.`
+```
+defaults write com.apple.finder AppleShowAllFiles YES
+```
